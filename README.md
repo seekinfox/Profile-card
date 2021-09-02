@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![mobileView](https://raw.githubusercontent.com/seekinfox/Profile-card/main/Screenshot_2021-09-02%20Frontend%20Mentor%20Profile%20card%20component.png)
-![Desktop view](https://raw.githubusercontent.com/seekinfox/Profile-card/main/Screenshot_2021-09-02%20Frontend%20Mentor%20Profile%20card%20component(1).png)
+![Desktop view](https://raw.githubusercontent.com/seekinfox/Profile-card/main/Screenshot_2021-09-03%20Frontend%20Mentor%20Profile%20card%20component.png)
 
 ### Links
 
