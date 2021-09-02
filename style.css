@@ -12,8 +12,8 @@ body {
     
     background: url("https://raw.githubusercontent.com/seekinfox/Profile-card/6a89cd2637b32da709d89df781e1392c965812f6/images/bg-pattern-top.svg"), url("https://raw.githubusercontent.com/seekinfox/Profile-card/c35be496163bd9c0ddea7dd1e57b711fca795e04/images/bg-pattern-bottom.svg"),  hsla(273, 56%, 21%,0.9);
     background-repeat: no-repeat, no-repeat;
-    background-size: 50%, 50%;
-    background-position: top -15rem left -3rem , bottom -20rem right -5rem;
+    background-size: 80%, 80%;
+    background-position: top -46rem left -28rem , bottom -53rem right -26rem;
 }
 
 :root {
@@ -29,7 +29,7 @@ body {
     box-sizing: border-box;
     font-family: 'Kumbh Sans', sans-serif;
     position: absolute;
-    width: 20rem;
+    width: 21rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -63,7 +63,10 @@ body {
     border-bottom: 0.1px solid var(--Dark-gray);
 }
 
-p#country {}
+p#country {
+margin-top: 0.4rem;
+    margin-bottom: 1.5rem;
+}
 
 #stats {
     box-sizing: border-box;
@@ -95,6 +98,7 @@ p.bold {
 }
 
 .grayblue {
+    
     padding-bottom: 1rem;
     margin: auto;
     font-weight: 400;
@@ -104,6 +108,9 @@ p.bold {
 .small {
 
     font-size: 14px;
+}
+.small1 {
+    font-size: 11px;
 }
 
 .stat p.bold {
